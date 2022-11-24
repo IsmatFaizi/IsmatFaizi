@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismatfaizi&show_icons=true&locale=en" alt="ismatfaizi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismatfaizi&" alt="ismatfaizi" /></p>
+
+![image](https://user-images.githubusercontent.com/78744554/203866460-69724b38-6739-4286-bc6f-e03146aa7def.png)
