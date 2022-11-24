@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismat Faizi</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
-<h3 align="center">I haven't used Gthub for a long time I work on Gilab</h3>
+<h3 align="center">I haven't used Github for a long time I work on Gilab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismatfaizi&label=Profile%20views&color=0e75b6&style=flat" alt="ismatfaizi" /> </p>
 
