@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/ismat_faizi" target="blank"><img src="https://img.shields.io/twitter/follow/ismat_faizi?logo=twitter&style=for-the-badge" alt="ismat_faizi" /></a> </p>
 
-- 📝 I regularly write articles on [https://programmer-life.be/brichten/](https://programmer-life.be/brichten/)
 
 - 📫 How to reach me **ismatfaizi25@gmail.com**
 
